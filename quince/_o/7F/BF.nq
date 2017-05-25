@@ -1,2 +1,1 @@
-﻿<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/2625M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/easting> "360107"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
-<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/3138M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/known_as> "Brewery at the rear of the Waggon and Horses public house, No.83 Stapleton Road"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
+﻿
