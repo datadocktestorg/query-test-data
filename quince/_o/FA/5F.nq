@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/200M> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.452817"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments_LatLong.csv>.
+<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/838M> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "51.452817"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments_LatLong.csv>.
