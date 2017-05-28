@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/1940M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/easting> "363480"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/2931M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/known_as> "Cotham Gate"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.

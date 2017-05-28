@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/1423M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/construction> "1938"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/2786M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/monument_record_no> "2786M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.

@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/1834M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/postal_address> "Broom Hill"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/2657M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/postal_address> "Broom Hill"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.

@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/2009M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/monument_type> "Custom house"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/2009M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/narrow_term> "Custom house"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
+<http://datadock.io/datadocktestorg/query-test-data/id/resource/monument_record_no/309M> <http://datadock.io/datadocktestorg/query-test-data/id/definition/monument_type> "Custom house"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/query-test-data/id/dataset/Bristol_Monuments.csv>.
